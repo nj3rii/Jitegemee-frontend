@@ -2,7 +2,7 @@
 import { ref } from "vue"
 
 const courses =ref([
-    {
+        {
         name:" Computer Science",
         school:"School of Computing and Engineering",
         description:"Best course For computer enthusiasts",
@@ -71,11 +71,13 @@ const courses =ref([
         intake:"June 2025"
     }
 
+])
+
 
     
 
 
-])
+
 
 </script>
 
